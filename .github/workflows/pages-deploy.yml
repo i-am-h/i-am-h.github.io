@@ -37,11 +37,8 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Upload GitHub Pages artifact
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-        with:
-          name: github-pages  # 반드시 이 이름이어야 합니다!
-          path: ./_site
 
   deploy:
     needs: build
