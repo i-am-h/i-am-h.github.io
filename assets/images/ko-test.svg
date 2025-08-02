@@ -1,0 +1,7 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  <text x="200" y="80" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#495057">한국어 테스트</text>
+  <text x="200" y="120" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#6c757d">Korean Test Image</text>
+  <circle cx="200" cy="150" r="20" fill="#007bff" opacity="0.7"/>
+  <text x="200" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">KO</text>
+</svg> 
