@@ -1,7 +1,0 @@
-<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="400" height="200" fill="#e9ecef" stroke="#adb5bd" stroke-width="2"/>
-  <text x="200" y="80" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#495057">English Test</text>
-  <text x="200" y="120" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#6c757d">영어 테스트 이미지</text>
-  <circle cx="200" cy="150" r="20" fill="#28a745" opacity="0.7"/>
-  <text x="200" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">EN</text>
-</svg> 
