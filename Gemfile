@@ -27,6 +27,6 @@ if RUBY_PLATFORM =~ /linux-musl/
   gem "jekyll-sass-converter", "~> 2.0"
 end
 
-gem 'jekyll-polyglot', git: 'https://github.com/i-am-h/polyglot', branch: 'master'
+gem 'jekyll-polyglot', git: 'https://github.com/i-am-h/polyglot', branch: 'main'
 gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
