@@ -76,6 +76,8 @@ _한국의 다양한 교통카드들_
 ---
 
 ## 🥈 2. WOWPASS (와우패스)
+![Wowpass](/assets/img/posts/korea-transportation-card/wowpass.png)
+_Wowpass_
 
 두번째로 소개드릴 교통카드는 바로 와우 패스인데요. 요즘 외국인 여행자들 사이에서 인기가 많죠. 
 
@@ -108,6 +110,8 @@ _한국의 다양한 교통카드들_
 ---
 
 ## 🥉 3. 기후동행카드 (관광권)
+![기후동행카드](/assets/img/posts/korea-transportation-card/기후동행카드.png)
+_기후동행카드_
 
 세번째로 소개드릴 교통 카드는 기후동행 카드인데요. 
 
@@ -138,6 +142,8 @@ _한국의 다양한 교통카드들_
 ---
 
 ## ⭐ 4. 서울 디스커버패스
+![Discover Seoul Pass](/assets/img/posts/korea-transportation-card/서울디스커버패스.png)
+_Discover Seoul Pass_
 
 서울 디스커버 패스는 외국인 전용 관광 패스예요. 
 
