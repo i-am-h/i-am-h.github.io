@@ -6,6 +6,7 @@ tags: [Korea Travel, App Guide, Transport App, Translation App, Booking App, Pay
 lang: en
 toc: true
 comment: true
+permalink: /korea-travel-app-guide
 ---
 
 Hello, this is Guide H.

@@ -6,6 +6,7 @@ tags: [교통카드, 티머니, 와우패스, 기후동행카드, 디스커버�
 lang: ko
 toc: true
 comment: true
+permalink: /korea-transportation-card-guide
 ---
 
 ![교통카드 종류](/assets/img/posts/korea-transportation-card/교통카드 종류.jpg)

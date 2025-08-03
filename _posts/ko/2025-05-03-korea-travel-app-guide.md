@@ -6,6 +6,7 @@ tags: [한국여행, 앱가이드, 교통앱, 번역앱, 예약앱, 결제앱, �
 lang: ko
 toc: true
 comment: true
+permalink: /korea-travel-app-guide
 ---
 
 안녕하세요. 가이드 H입니다.

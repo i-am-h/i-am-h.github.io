@@ -6,6 +6,7 @@ tags: [thẻ giao thông, T-money, WOWPASS, Climate Companion Card, Discover Seo
 lang: vi
 toc: true
 comment: true
+permalink: /korea-transportation-card-guide
 ---
 
 ![Các loại thẻ giao thông Hàn Quốc](/assets/img/posts/korea-transportation-card/교통카드 종류.jpg)

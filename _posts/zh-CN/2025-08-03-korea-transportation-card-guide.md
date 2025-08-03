@@ -6,6 +6,7 @@ tags: [交通卡, T-money, WOWPASS, 气候同行卡, 首尔通行证, 韩国旅�
 lang: zh-CN
 toc: true
 comment: true
+permalink: /korea-transportation-card-guide
 ---
 
 ![韩国交通卡种类](/assets/img/posts/korea-transportation-card/교통카드 종류.jpg)

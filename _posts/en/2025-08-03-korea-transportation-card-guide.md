@@ -6,6 +6,7 @@ tags: [transportation card, T-money, WOWPASS, Climate Companion Card, Discover S
 lang: en
 toc: true
 comment: true
+permalink: /korea-transportation-card-guide
 ---
 
 ![Types of Transportation Cards](/assets/img/posts/korea-transportation-card/교통카드 종류.jpg)

@@ -6,6 +6,7 @@ tags: [韩国旅游, 应用指南, 交通应用, 翻译应用, 预订应用, 支
 lang: zh-CN
 toc: true
 comment: true
+permalink: /korea-travel-app-guide
 ---
 
 大家好，我是导游H。

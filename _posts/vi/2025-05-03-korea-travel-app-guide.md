@@ -6,6 +6,7 @@ tags: [Du lịch Hàn Quốc, Hướng dẫn ứng dụng, Ứng dụng giao th�
 lang: vi
 toc: true
 comment: true
+permalink: /korea-travel-app-guide
 ---
 
 Xin chào, đây là Hướng dẫn viên H.

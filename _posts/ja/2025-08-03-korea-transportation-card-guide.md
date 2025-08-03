@@ -6,6 +6,7 @@ tags: [交通カード, ティーマネー, ワウパス, 気候同行カード,
 lang: ja
 toc: true
 comment: true
+permalink: /korea-transportation-card-guide
 ---
 
 ![交通カードの種類](/assets/img/posts/korea-transportation-card/교통카드 종류.jpg)

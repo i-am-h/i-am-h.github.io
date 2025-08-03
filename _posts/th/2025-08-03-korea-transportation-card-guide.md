@@ -6,6 +6,7 @@ tags: [บัตรโดยสาร, T-money, WOWPASS, Climate Companion Card,
 lang: th
 toc: true
 comment: true
+permalink: /korea-transportation-card-guide
 ---
 
 ![บัตรโดยสารเกาหลี](/assets/img/posts/korea-transportation-card/교통카드 종류.jpg)

@@ -6,6 +6,7 @@ tags: [韓国旅行, アプリガイド, 交通アプリ, 翻訳アプリ, 予�
 lang: ja
 toc: true
 comment: true
+permalink: /korea-travel-app-guide
 ---
 
 こんにちは、ガイドHです。
