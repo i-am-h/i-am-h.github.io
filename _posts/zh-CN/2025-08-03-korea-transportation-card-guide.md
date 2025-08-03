@@ -3,7 +3,7 @@ title: "韩国交通卡全攻略（T-money、WOWPASS、气候同行卡、首尔�
 date: 2025-08-03 10:00:00 +0900
 categories: [KoreaTravel]
 tags: [交通卡, T-money, WOWPASS, 气候同行卡, 首尔通行证, 韩国旅行]
-lang: zh_CN
+lang: zh-CN
 toc: true
 comment: true
 ---
