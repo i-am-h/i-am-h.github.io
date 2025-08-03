@@ -19,8 +19,7 @@ _韓国のさまざまな交通カード_
 
 このポストでは、韓国の交通カードがなぜ必要なのか、どんな種類があるのか、そして旅行スタイルに合ったおすすめカードを一気にご紹介します！
 
-
-https://youtu.be/Z4pU48aSbUk?si=b_AgwA085-whH93M
+{% include embed/{youtube}.html id='{Z4pU48aSbUk}' %}
 
 ---
 
