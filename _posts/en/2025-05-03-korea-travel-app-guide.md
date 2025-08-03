@@ -1,5 +1,5 @@
 ---
-title: "Essential Korea Travel Apps Guide (Transport, Translation, Booking, Payment Apps All-in-One)"
+title: "Korea Travel Apps Recommendation (Transport, Translation, Booking, Payment Apps All-in-One)"
 date: 2025-05-03 10:00:00 +0900
 categories: [KoreaTravel]
 tags: [Korea Travel, App Guide, Transport App, Translation App, Booking App, Payment App, Naver Map, KakaoT, Papago, WOWPASS]
