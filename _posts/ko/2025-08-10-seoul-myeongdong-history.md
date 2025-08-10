@@ -7,7 +7,6 @@ lang: ko
 toc: true
 comment: true
 permalink: /seoul-myeongdong-history
-author: i-am-h
 ---
 
 ![서울 명동 거리 풍경](/assets/img/posts/seoul-myeongdong/서울_명동12.HEIC)
