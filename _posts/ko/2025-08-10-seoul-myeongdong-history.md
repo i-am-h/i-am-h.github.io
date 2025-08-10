@@ -118,9 +118,9 @@ _광복 직후_
 
 지금의 '명동(明洞)'이라는 이름이 만들어졌습니다.
 
-이렇게 다시 새로운 시작을 하는가 
+이렇게 다시 새로운 시작을 꿈꾸고 있었지만
 
-하지만 1950년에 발발한 6·25 전쟁으로
+1950년에 발발한 6·25 전쟁으로
 
 **명동 성당을 제외한 대부분의 시설들이 파괴**되었죠.
 
@@ -184,11 +184,10 @@ _부루의 뜨락(1970~80년대 명동을 대표하던 오디오점)_
 
 그렇다면, 명동은 어떻게 **외국인 관광지 1순위**가 되었을까요?
 
-<div style="display: flex; gap: 10px; justify-content: center; align-items: center; margin: 20px 0;">
-  <img src="/assets/img/posts/seoul-myeongdong/보아_넘버원.webp" alt="보아 넘버원" style="height: 100px; object-fit: cover; border-radius: 8px;">
-  <img src="/assets/img/posts/seoul-myeongdong/올드보이.webp" alt="올드보이" style="height: 100px; object-fit: cover; border-radius: 8px;">
-  <img src="/assets/img/posts/seoul-myeongdong/겨울연가.webp" alt="겨울연가" style="height: 100px; object-fit: cover; border-radius: 8px;">
-</div>
+| ![보아 넘버원](/assets/img/posts/seoul-myeongdong/보아_넘버원.webp) | ![올드보이](/assets/img/posts/seoul-myeongdong/올드보이.webp) | ![겨울연가](/assets/img/posts/seoul-myeongdong/겨울연가.webp) |
+|:---:|:---:|:---:|
+| **보아 - 넘버원** | **올드보이** | **겨울연가** |
+| 2000년대 K-POP의 시작 | 2003년 한국 영화의 전성기 | 2002년 한류 드라마의 대표작 |
 
 1990년대 이후,
 
