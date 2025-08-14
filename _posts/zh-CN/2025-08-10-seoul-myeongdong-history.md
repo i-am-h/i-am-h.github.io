@@ -38,6 +38,9 @@ _首尔明洞街景_
 
 **让我们一起探索明洞的历史和变迁，看看它是如何变成现在这个样子的。**
 
+{% include embed/youtube.html id='RmmfVDRlyX0' %}
+<!-- Related Youtube Video -->
+
 ---
 
 ### 🟡 朝鲜时代：贫穷书生的村庄
