@@ -38,6 +38,9 @@ Today is the time to answer those questions!
 
 **Let's explore the history and changes of Myeongdong together, and see how it came to have its current appearance.**
 
+{% include embed/youtube.html id='RmmfVDRlyX0' %}
+<!-- Related Youtube Video -->
+
 ---
 
 ### 🟡 Joseon Dynasty: A Village of Poor Scholars
