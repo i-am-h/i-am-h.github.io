@@ -38,6 +38,9 @@ Hôm nay là lúc để giải đáp những thắc mắc đó!
 
 **Hãy cùng xem lịch sử và sự thay đổi của Myeongdong, và tìm hiểu cách nó trở thành hình dạng hiện tại**
 
+{% include embed/youtube.html id='RmmfVDRlyX0' %}
+<!-- Related Youtube Video -->
+
 ---
 
 ### 🟡 Thời Joseon: Khu dân nghèo và học giả
