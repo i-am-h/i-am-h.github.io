@@ -41,7 +41,6 @@ Hôm nay là lúc để giải đáp những thắc mắc đó!
 {% include embed/youtube.html id='RmmfVDRlyX0' %}
 <!-- Related Youtube Video -->
 
----
 
 ### 🟡 Thời Joseon: Khu dân nghèo và học giả
 ![Cảnh Myeongdong xưa](/assets/img/posts/seoul-myeongdong/옛날_명동_멀리서.jpg)

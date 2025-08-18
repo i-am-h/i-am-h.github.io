@@ -38,6 +38,7 @@ _서울 명동 거리 풍경_
 
 **명동의 역사와 변화를 함께 살펴보고, 어떻게 지금의 모습을 가지게 되었는지 알아봐요.**
 
+
 {% include embed/youtube.html id='RmmfVDRlyX0' %}
 <!-- Related Youtube Video -->
 ---
