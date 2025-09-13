@@ -1,6 +1,6 @@
 ---
 title: "Forma mais barata de ir do aeroporto de Incheon para Seul (Guia completo do trem regular do aeroporto)"
-date: 2025-05-03 10:00:00 +0900
+date: 2025-09-13 10:00:00 +0900
 categories: [KoreaTravel]
 tags: [Viagem para Coreia, Aeroporto de Incheon, Transporte para Seul, Trem do aeroporto, AREX, Trem regular, Guia de transporte, Dicas de viagem para Seul]
 lang: pt_BR

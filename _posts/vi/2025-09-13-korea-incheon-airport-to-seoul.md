@@ -1,6 +1,6 @@
 ---
 title: "Cách di chuyển từ sân bay Incheon đến Seoul rẻ nhất (Hướng dẫn đầy đủ về tàu điện sân bay thường)"
-date: 2025-05-03 10:00:00 +0900
+date: 2025-09-13 10:00:00 +0900
 categories: [KoreaTravel]
 tags: [Du lịch Hàn Quốc, Sân bay Incheon, Di chuyển Seoul, Tàu điện sân bay, AREX, Tàu thường, Hướng dẫn giao thông, Mẹo du lịch Seoul]
 lang: vi
