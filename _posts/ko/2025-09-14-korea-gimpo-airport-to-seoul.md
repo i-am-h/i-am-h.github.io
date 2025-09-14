@@ -80,7 +80,7 @@ _김포공항 내 지하철(Subway) 안내 표지판_
 약 **15분 정도 걸으면** 지하철 개찰구에 도착합니다.  
 
 🚉 **공항철도(AREX) 탑승**  
-![공항철도(AREX) 표지판](/assets/img/posts/gimpo-airport/arex-platform-entrance.jpg)
+![공항철도(AREX) 표지판](/assets/img/posts/gimpo-airport/airporttrain-sign.jpg)
 _공항철도(AREX) 표지판_
 
 표지판에 따라 **공항철도(하늘색 라인)** 방향으로 이동합니다.  
